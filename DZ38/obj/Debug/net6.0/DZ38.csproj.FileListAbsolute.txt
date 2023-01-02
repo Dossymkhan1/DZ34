@@ -1,0 +1,15 @@
+C:\Games\C#5\DZ38\bin\Debug\net6.0\DZ38.exe
+C:\Games\C#5\DZ38\bin\Debug\net6.0\DZ38.deps.json
+C:\Games\C#5\DZ38\bin\Debug\net6.0\DZ38.runtimeconfig.json
+C:\Games\C#5\DZ38\bin\Debug\net6.0\DZ38.dll
+C:\Games\C#5\DZ38\bin\Debug\net6.0\DZ38.pdb
+C:\Games\C#5\DZ38\obj\Debug\net6.0\DZ38.csproj.AssemblyReference.cache
+C:\Games\C#5\DZ38\obj\Debug\net6.0\DZ38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\C#5\DZ38\obj\Debug\net6.0\DZ38.AssemblyInfoInputs.cache
+C:\Games\C#5\DZ38\obj\Debug\net6.0\DZ38.AssemblyInfo.cs
+C:\Games\C#5\DZ38\obj\Debug\net6.0\DZ38.csproj.CoreCompileInputs.cache
+C:\Games\C#5\DZ38\obj\Debug\net6.0\DZ38.dll
+C:\Games\C#5\DZ38\obj\Debug\net6.0\refint\DZ38.dll
+C:\Games\C#5\DZ38\obj\Debug\net6.0\DZ38.pdb
+C:\Games\C#5\DZ38\obj\Debug\net6.0\DZ38.genruntimeconfig.cache
+C:\Games\C#5\DZ38\obj\Debug\net6.0\ref\DZ38.dll
